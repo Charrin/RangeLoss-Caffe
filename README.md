@@ -32,5 +32,7 @@ optional uint32 uniform_num = 14 [default = 1];
 ```
 to the end of "message ImageDataParameter"
 
+# Note
 
-
+The implementation is a little different from the original formula in the paper,
+I will check them again, welcome to dissucess.
