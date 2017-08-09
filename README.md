@@ -45,4 +45,4 @@ train with softmaxloss on minist
 
 
 
-[rl_st]:mnist/rl_st.jpg
+[rl_st]:mnist/rl_st.eps
